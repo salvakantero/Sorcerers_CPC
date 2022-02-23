@@ -1,0 +1,165 @@
+
+
+////////////////////////////////////////////////////
+///  SORCERERS  A 64k videogame for Amstrad CPC  ///
+////////////////////////////////////////////////////
+
+LA HISTORIA
+============
+
+Ha muerto Einar, el gran hechicero vikingo de las tierras del norte.
+Atrás deja un viejo y misterioso castillo, situado en la cima de un prominente monte, en medio de un interminable, húmedo y oscuro bosque boreal de pinos y abetos.
+Dicho castillo guarda un tesoro de inestimable valor.
+Se trata de la biblioteca de la torre, la cual incluye entre otros muchos tomos, algunos libros de hechizos que contienen toda la sabiduría que han ido recopilando tanto Einar como otros hechiceros anteriores a él a lo largo de los siglos.
+Pero el castillo permanece cerrado e inaccesible desde su muerte.
+Para evitar que su legado cayera en manos ajenas a la magia, en su lecho de muerte Einar exhaló un último y magistral hechizo.
+De repente todas las puertas de la fortaleza se cerraron resultando imposible abrirlas, como si una robusta cerradura invisible se hubiera instalado en cada una de ellas, aprisionando a su vez a toda la servidumbre y convirtiéndolos en férreos defensores zombificados de sus aposentos.
+Puede parecer que todo ese conocimiento vaya a caer en el olvido para siempre.
+¿Es que no hay herederos ni discípulos que hayan conocido tan imponente fortaleza, capaces de romper los hechizos de cada una de las puertas de acceso?
+En realidad sí que hay dos personajes interesados en hacerse con el castillo, lo que ocurre es que se perdieron en el bosque y ya tardan en llegar.
+Son Sven y Erik, hermanos gemelos, hijos bastardos de Einar, aprendices de hechicero, y un par de auténticos botarates.
+Einar acabó renegando de ellos y expulsándolos del castillo, tras vanos intentos de instruir a sus hijos en la magia y la hechicería.
+Ahora ambos tienen la oportunidad de demostrar sus dotes, así como de recuperar los honores perdidos.
+¿Conseguirá alguno de ellos llegar hasta la torre del castillo y adueñarse de él para continuar la estirpe?
+Pronto lo sabremos.
+
+
+EL JUEGO
+========
+
+1 Jugador: Tu misión consistirá en guiar a Sven hacia lo más alto del castillo evitando en todo momento el contacto con los enemigos.
+Para abrir las puertas de cada nivel y pasar al siguiente deberás fabricar una poción con los mismos ingredientes y la misma receta necesarias.
+Dicha combinación de ingredientes aparecerá en la zona derecha del marcador en el apartado “KEY”.
+En todas las pantallas de juego podemos encontrar algún kiosko de la famosa cadena de tiendas de magia MercaPot.
+La señorita Gunilda nos atenderá gustosamente para ofrecernos todos los ingredientes que necesitemos.
+Eso sí, ¡previo pago! Por lo que antes tendremos que conseguir las monedas necesarias.
+Estas monedas, y otros objetos interesantes aparecerán aleatoriamente en pantalla a intervalos regulares solo durante unos segundos. No las dejes pasar.
+Si fabricamos una poción diferente a la que necesitamos, la puerta no se abrirá, y no nos quedará más remedio que acercarnos al pozo para tirar allí todo y empezar de nuevo con la poción, así que mucho cuidado.
+
+2 Jugadores: En esta modalidad para dos jugadores simultáneos se trata de conseguir antes que el adversario cinco ingredientes que sumen el mayor poder posible (ver tabla de ingredientes) y encontrarse ambos jugadores para un duelo de magia.
+El jugador que tenga la poción más poderosa ganará el nivel y una vida extra.
+El jugador que pierde el duelo perderá también una vida.
+De esta manera es posible llevar la batalla fratricida hasta la mismísima biblioteca.
+La clave está en ser rápido creando una buena poción, o evitar el encuentro si aun no se está preparado.
+En todo caso hay que mantenerse alejado de los enemigos.
+
+
+CONTROLES DE JUEGO (valores por defecto*)
+=========================================
+
+Jugador1	Jugador2
+--------	--------
+W Arriba 	5 Arriba
+S Abajo 	2 Abajo
+A Izquierda 	1 Izquierda
+D Derecha 	3 Derecha
+
+M Música SI/NO 	M Música SI/NO
+H Pausa SI/NO 	H Pausa SI/NO
+X Terminar 	X Terminar
+
+*Use la opción de menú “redefinir controles” para usar el Joystick, moviendo en la dirección deseada.
+
+
+LOS OBJETOS
+===========
+
+Moneda x1: Son los objetos más numerosos. Necesarios para conseguir la poción adecuada. [5 puntos]
+
+Moneda x5: Para cuando necesites ingredientes muy caros. En la modalidad de dos jugadores es un objeto imprescindible. [20 puntos]
+
+Velocidad x2: Te dará una ventaja vital para esquivar enemigos, o para adelantarte a tu oponente en partidas de dos jugadores. [25 puntos]
+
+Vida extra: El príncipe de Persia regaló la fórmula de esta poción de salud a Einar en uno de sus viajes a oriente próximo. Es la misma que utilizó en su lucha contra el visir Jaffar. [30 puntos]
+
+
+LOS INGREDIENTES
+================
+
+1 Mocos de Sapo		[2 puntos]
+2 Polvo de Diamante	[4 puntos]
+3 Ojo de Tritón		[6 puntos]
+4 Caca de Mamut		[8 puntos]
+5 Tinta de Kraken	[10 puntos]
+6 Lágrima de Sirena	[12 puntos]
+7 Seta Marciana		[14 puntos]
+8 Sangre de Dragón	[16 puntos]
+9 Huevo de Dodo		[18 puntos]
+10 Sangre de Unicornio	[20 puntos]
+11 Grasa de Troll	[22 puntos]
+12 Lava de Mordor	[24 puntos]
+
+La suma de los números asignados a cada ingrediente de la poción nos dará el valor de la potencia final.
+
+
+LOS ENEMIGOS
+============
+
+Los vampiros tienen movimientos lineales predecibles, pero pueden ser muy rápidos.
+Centinelas y caballeros pueden tener también movimientos aleatorios en función del mapa de juego.
+Los Fantasmas, además de los movimientos anteriormente descritos, pueden (en niveles superiores) perseguir a los jugadores atravesando paredes. ¡Son los más peligrosos!
+La bruja busca y dispara a los jugadores cuando se acercan a ella.
+El mago permanece oculto en todos los niveles, pero aparece y dispara cuando detecta a algún jugador inmóvil durante unos segundos. ¡Mantente activo!
+
+
+INSTRUCCIONES DE CARGA (CPC464)
+===============================
+
+1) Reinicie el ordenador presionando las teclas CTRL + SHIFT + ESC a la vez y en este orden.
+2) Coloque la cinta de cassette en la grabadora rebobinada desde el principio.
+3) Pulse simultáneamente las teclas CTRL + ENTER (la más pequeña). En la pantalla aparecerá el mensaje “PRESS PLAY THEN ANY KEY”. Pulse el botón PLAY de la grabadora y acto seguido cualquier tecla. 
+El programa tardará unos 4 minutos en cargar.
+
+
+SORCERERS - Copyleft (c) 2020
+=============================
+
+SalvaKantero:	Programación, Gráficos, Carátula y Documentación
+McKlain:	Música y FX
+Dany Cantero:	Traducciones
+Blackmores:	Beta Testing
+Felipe Monge:	Productor Ejecutivo
+
+
+SOFTWARE AND RESOURCES
+======================
+
+La imagen de fondo de la carátula y pantalla de carga es una adaptación del original
+"Beautiful Castle", diseñado por 0melapics / Freepik.
+( https://www.freepik.com/free-vector/beautiful-castle_961327.htm#page=2&position=43 )
+Freepik License - Free for personal and commercial purpose with attribution.
+
+CPCtelera v1.5 (development branch).  Copyright (C) 2014-2017 
+By ronaldo / (Cheesetea/ Fremos, ByteRealms) and another awesome collaborators
+https://github.com/lronaldo/cpctelera
+CPCtelera low-level library and scripts are distributed under GNU Lesser General Public License v3.
+
+Tiled v1.4.2 - by Thorbjørn Lindeijer. Copyright © 2008-2019
+https://www.mapeditor.org/
+Tiled is distributed under GNU General Public License v2.0 (GPL)
+
+Arkos Tracker 1 - by Targhan / SuperSylvestre.
+https://www.grimware.org/doku.php/documentations/software/arkos.tracker/start
+http://www.julien-nevo.com/arkostracker/ 
+Arkos Tracker is freeware.
+
+Paint.Net v4.2 - Copyright (C) dotPDN LLC, Rick Brewster, and contributors.
+https://www.getpaint.net/index.html
+Paint.NET is free for use in any environment.
+
+GIMP 2.10 - Copyright © 1995-2020 Spencer Kimball, Peter Mattis y el equipo de desarrollo
+https://www.gimp.org/
+GIMP is distributed under GNU General Public License v3
+
+ConvImgCPC v0.16 - by Demoniak
+https://demoniak-contrib.forumgaming.fr/t9p50-convimgcpc
+
+LibreOffice v7.0 - by The Document Foundation.
+https://www.libreoffice.org/
+LibreOffice is distributed under LGPLv3 and MPL licenses.
+
+RetroVirtualMachine v2.0 B1 R7 - ©2019 Juan Carlos González Amestoy
+https://www.retrovirtualmachine.org/
+
+
+SORCERERS ha sido liberado bajo la licencia GPL, incluído el código fuente.
